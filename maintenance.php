@@ -37,7 +37,7 @@
                             </p>
                         </div>
                         <div class="text-center mb-3">
-                            <a href="https://wa.me/6287733807998">Call us</a> for detail.
+                            <a href="https://wa.me/6287733807998">Call us</a> for more details.
                         </div>
                     </div>
                 </div>
